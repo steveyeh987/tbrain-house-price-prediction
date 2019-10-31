@@ -1,5 +1,5 @@
 # [TBrain-台灣不動產AI神預測]
-This is the top 1% solution for my team "零翼" at the [玉山人工智慧公開挑戰賽2019夏季賽 - 台灣不動產AI神預測](https://tbrain.trendmicro.com.tw/Competitions/Details/6) competition.  
+This is the top 2% solution for my team "零翼" at the [玉山人工智慧公開挑戰賽2019夏季賽 - 台灣不動產AI神預測](https://tbrain.trendmicro.com.tw/Competitions/Details/6) competition.  
 
 <p align="center"><img src="img/lb.png" width=80% height=80%></p>
 
@@ -10,5 +10,3 @@ The dataset contains 60k rows of training data and 10k rows of testing data. Eac
 - [Keras](https://keras.io/)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/index.html)
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html)
-
-# Model Descriptions:
